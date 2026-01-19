@@ -2,6 +2,8 @@
 
 Adds foldmarkers as signs.
 
+<img width="675" height="477" alt="screenshot" src="https://github.com/user-attachments/assets/948bc0f3-fca0-4a39-b9f6-073f3222e277" />
+
 ## Installation
 
 With `lazy.nvim`:
